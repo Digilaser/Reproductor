@@ -13,7 +13,7 @@ const songList = [
     },
     {
         title: "Creative Minds",
-        file: "creativeminds.mp3",
+        file: "https://github.com/Digilaser/Reproductor/raw/audio/acousticbreeze.mp3",
         cover: "3.jpeg"
     },
 ]
